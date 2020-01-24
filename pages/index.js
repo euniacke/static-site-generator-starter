@@ -24,6 +24,7 @@ export default function Index() {
                 <Typography variant="h4" component="h1" gutterBottom>
                     My super dooper app
                 </Typography>
+                <Button variant="contained">Default</Button>
                 <Copyright/>
             </Box>
         </Container>
